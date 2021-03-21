@@ -1,0 +1,27 @@
+[{
+    "id": 1,
+    "vehicleName": "BIKE",
+    "vehicleImage": "https://www.topgear.com/sites/default/files/styles/large/public/images/news-article/carousel/2020/09/9e3a4cd41c5213a5e933f812b240f83c/p90398262_highres_the-new-bmw-m-1000-r.jpg?itok=nQhKGgA1",
+    "vehicleSeat":5,
+    "ticketPrice":30
+    
+  }, {
+    "id": 2,
+    "vehicleName": "CAR",
+    "vehicleImage": "https://gumlet.assettype.com/evoindia%2Fimport%2F2017%2F01%2Fnio-1.jpg?auto=format%2Ccompress&format=webp&w=376&dpr=2.6",
+    "vehicleSeat":5,
+    "ticketPrice":30
+    
+  }, {
+    "id": 3,
+    "vehicleName": "BUS",
+    "vehicleImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6uL5NVbfrxbUB8Yf7t_Up0_Mrb2LTd-lmdD7nn4KmJkKrBbhDYFRQyQBhoGliW5nhsIg&usqp=CAU",
+    "vehicleSeat":5,
+    "ticketPrice":30
+  }, {
+    "id": 4,
+    "vehicleName": "PLANE",
+    "vehicleImage": "https://freedomfund.org/wp-content/uploads/iStock_AirplaneAtSunset_Sitikka.jpg",
+    "vehicleSeat":5,
+    "ticketPrice":30
+  }]
